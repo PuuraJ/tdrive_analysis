@@ -9,6 +9,7 @@ Requirements:
 
 
 
+
 Notebooks:
 
 Notebooks assume that the initial data is in folder "data". Processed data is put in folder "processed_data", so need to create it as well.
@@ -22,8 +23,15 @@ Notebooks assume that the initial data is in folder "data". Processed data is pu
 7) 07_machine_learning_failure - Some attempt at performing machine learning, but not too deep :) Create linear models and take a brief look at coefficients which affect counts in some tiles of Beijing.
 
 
+All html versions of the notebooks are in notebooks_html
+
+
 Some more interesting results are in .gif files in the same folder as notebooks.
 
 1) monday.gif - how count of taxis change in grid during day
 2) monday_active.gif - how count of active taxis (found with a simple heuristic) change through time
-3) monday_pagerank.gif - shows what kind of transitions are most popular ones. Which are more popular tiles through day
+3) monday_pagerank.gif - shows what kind of transitions are most popular ones. Which are more popular tiles throughout the day
+
+
+
+
